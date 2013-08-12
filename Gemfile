@@ -4,7 +4,7 @@ gem 'rails', '3.2.9'
 gem 'jquery-rails'
 gem 'devise'
 gem  'simple_form'
-gem "paperclip"
+gem "paperclip", '3.4.2'
 gem 'aws-sdk'
 
 
