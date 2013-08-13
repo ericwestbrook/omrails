@@ -3,10 +3,12 @@ source 'https://rubygems.org'
 gem 'rails', '3.2.9'
 gem 'jquery-rails'
 gem 'devise'
-gem  'simple_form'
-gem "paperclip", '3.4.2'
+gem 'simple_form'
+gem 'paperclip', '3.4.2'
 gem 'aws-sdk'
 gem 'faker'
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
 
 
 group :production do
